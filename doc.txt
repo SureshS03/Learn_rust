@@ -1,0 +1,8 @@
+start with main fn always like :
+     fn main () {
+        //code here
+     }
+print! and println! both are same but ln add new line at end of the output
+
+assign variable as let :
+    let a = 

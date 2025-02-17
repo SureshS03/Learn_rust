@@ -1,8 +1,14 @@
-start with main fn always like :
+* start with main fn always like :
      fn main () {
         //code here
      }
-print! and println! both are same but ln add new line at end of the output
+* print! and println! both are same but ln add new line at end of the output
 
-assign variable as let :
-    let a = 
+* assign variable as let :
+    let a =
+
+* cant use diff data type in array , but can use in tuples
+
+* rust have title which is able to talk with complier before the executions
+
+* we can decalre bunch variable without intiallized value , assign latter and can be muteable and diff data value too

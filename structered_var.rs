@@ -7,7 +7,7 @@ fn main () {
     let (mut c, _d) = (3,4); //used underscore to avoid unused var, or else we can use "#[allow(unused_variables)]" too
     c += 2;
     assert_eq!(c, 5);
-    println!("wokring good");
+    println!("working good");
     test();
 }
 

@@ -15,3 +15,4 @@
 
 * rust have data type with bits and each bits store some limited values only and the data type can be assign prefix or sufix and even rust have some scitfic values too
 
+* w can assign values by using diff types like binary, decimal, otco, hexa decimal (see the code comp_values for better understanding) 

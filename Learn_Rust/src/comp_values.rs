@@ -1,4 +1,4 @@
-fn main() {
+pub fn test() {
     let bi = 0b0001; //0b = binary, 0001 = 8 4 2 1
     let dec = 2_224; // this is deicamal the "_" is for better reading only
     let octa = 0o0011; // 0o = octal, 0001 = (0 * 8^3) + (...) + (...) + (1 * 8^0)

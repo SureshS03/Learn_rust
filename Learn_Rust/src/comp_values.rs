@@ -11,3 +11,7 @@ pub fn test() {
     println!("this is octa {}",octa);
     println!("this is hexa deicaml {}",hex);
 }
+
+fn main () {
+	test();
+}

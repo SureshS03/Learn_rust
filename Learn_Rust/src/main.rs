@@ -1,6 +1,6 @@
-mod comp_values;
+mod enumtesting;
 fn main () {
     println!("say hello");
-    comp_values::test();
+    enumtesting::test();
     //muteablevar();
 }
